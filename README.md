@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello 🙋🏻‍♂️. I have recently started my journey in coding and data sciences. Looking forward to implementing my learnings and exploring new avenues.
+
 <!--
 **pushkarshah121/pushkarshah121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
